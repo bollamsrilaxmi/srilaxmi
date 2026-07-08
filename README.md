@@ -1,5 +1,5 @@
-## 👋 About Me
-hello, i'm srilaxmi
+## 👋 About Me:
+Hello, i'm srilaxmi
 
 * 🎓 BCA Student
 * 💻 Aspiring Web dveloper
